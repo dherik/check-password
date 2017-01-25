@@ -12,8 +12,11 @@ Java code to check if the password is valid, using Java, Spark, Bootstrap and jQ
 # Run
 
  1. Run `CheckPasswordRS` to start the Spark server.
- 2. Access http://localhost:4567/index.html
+ 2. Access [http://localhost:4567/index.html](http://localhost:4567/index.html)
  3. Enjoy
 
 # TODO
 
+ - Translate to English
+ - Break the main check password code in more classes
+ - Clear CSS
