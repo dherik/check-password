@@ -21,3 +21,4 @@ Java code to check if the password is valid, using Java, Spark, Bootstrap and jQ
  - Break the main check password code in more classes
  - Clear CSS
  - Add more tests
+ - Change the rest service to check the password from POST do GET
