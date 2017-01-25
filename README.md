@@ -1,5 +1,5 @@
 # check-password
-Java code to avaliate the strength of the password, using Java 8, Spark, Bootstrap and jQuery
+Java code to show the strength of the password, using Java 8, Spark, Bootstrap and jQuery
 
 # Requirements
 
