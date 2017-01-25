@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Avaliador de segurança para senhas.</title>
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/starter-template.css">
+        <link rel="stylesheet" href="css/style.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+            <div class="panel panel-default">
+
+                <div class="panel-body">
+                    <h4 class="text-muted title">Avaliador de segurança de senha</h4>
+                    <div class="panel panel-default main-panel">
+
+                        <div class="panel-body">
+                            <div class="col-xs-4">
+                                <input class="form-control input-lg" id="passwordPwd" name="passwordPwd" placeholder="Senha" type="password">
+                                <div class="info-panel">
+                                    <div class="square-info perc">
+                                        <div id="score">0%</div>
+                                    </div>
+                                    <div id="colorComplexity" class="square-info complexity muito-fraca">
+                                        <div id="complexity">Muito Curta</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <script src="js/jquery-latest.min.js" type="text/javascript"></script>
+        <script src="js/password.js" type="text/javascript"></script>
+    </body>
+</html>

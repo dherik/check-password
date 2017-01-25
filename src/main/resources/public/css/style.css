@@ -1,0 +1,56 @@
+.square-info {
+    background: none repeat scroll 0% 0% #666666;
+    text-align: center;
+    color: #FFF;
+    padding: 0.25em 0.5em;
+    margin: 2px 2px 2px 0px;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 1.4;
+    white-space: nowrap;
+    display: inline-block;
+    border-radius: 5px;
+    border: 0px solid;
+    font-weight: bold;
+}
+
+.muito-fraca {
+    background: none repeat scroll 0% 0% #FF0000;
+}
+
+.fraca {
+    background: none repeat scroll 0% 0% #FF8C00;
+}
+
+.boa {
+    background: none repeat scroll 0% 0% #9ACD32;
+}
+
+.forte {
+    background: none repeat scroll 0% 0% #32CD32;
+}
+
+.muito-forte {
+    background: none repeat scroll 0% 0% #228B22;
+}
+
+.perc {
+    width: 40px;
+}
+
+.complexity {
+    width: 90px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.main-panel {
+    background: #FAFAFA;
+}
+
+.info-panel {
+    margin-top: 10px;
+}
