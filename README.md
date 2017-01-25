@@ -20,3 +20,4 @@ Java code to check if the password is valid, using Java, Spark, Bootstrap and jQ
  - Translate to English
  - Break the main check password code in more classes
  - Clear CSS
+ - Add more tests
